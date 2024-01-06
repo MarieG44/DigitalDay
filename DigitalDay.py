@@ -95,3 +95,19 @@ if __name__ == "__main__":
     mainWin = MainWindow()
     mainWin.show()
     sys.exit(app.exec_())
+
+
+
+
+
+
+
+#CONCERNS:
+#implement data storage within GUI
+#app seems to start a new tracking cycle when user presses stop --> have to restart program for each new cycle
+#
+#
+
+
+
+
