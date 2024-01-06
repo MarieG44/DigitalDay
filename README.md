@@ -6,6 +6,3 @@ The goal is for the user to identify and change how they allocate their time onl
 
 
 
-
-Future improvements:<br>
-Data storage integrated with GUI<br>
