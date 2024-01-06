@@ -104,7 +104,7 @@ if __name__ == "__main__":
 
 #CONCERNS:
 #implement data storage within GUI
-#app seems to start a new tracking cycle when user presses stop --> have to restart program for each new cycle
+#app seems to start a new tracking cycle when user presses stop --> have to reload program for each new cycle
 #
 #
 
